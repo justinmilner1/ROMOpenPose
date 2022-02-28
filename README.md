@@ -1,6 +1,8 @@
 # Camera-Based Range of Motion Measurer and Tracker
-####Use your webcam to measure the ROM of various joints.
+#### Use your webcam to measure the ROM of various joints.
 ###### This is an application built on top of an OpenPose implementation by Illdo Kim https://github.com/ZheC/tf-pose-estimation
+
+![alt text](https://github.com/justinmilner1/tf-pose-estimation-master/Sample_image.png?raw=true)
 
 ### Dependencies
 - python3
