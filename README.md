@@ -3,6 +3,8 @@
 ###### This is an application built on top of an OpenPose implementation by Illdo Kim https://github.com/ZheC/tf-pose-estimation
 
 ![alt text](https://github.com/justinmilner1/tf-pose-estimation-master/Sample_image.png?raw=true)
+![plot](Sample_image.png)
+![Screenshot](Sample_image.png)
 
 ### Dependencies
 - python3
